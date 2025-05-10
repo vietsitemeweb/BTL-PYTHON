@@ -1,5 +1,7 @@
 Ngoại hạng Anh 2024–2025
+
 Tổng quan dự án
+
 Dự án gồm 4 phần, tập trung vào việc thu thập, phân tích và khai thác dữ liệu cầu thủ và chuyển nhượng tại giải Ngoại hạng Anh mùa 2024–2025. Mục tiêu là đưa ra cái nhìn trực quan, thống kê và ước tính giá trị cầu thủ dựa trên dữ liệu thật từ các trang web uy tín.
 Bài 1: Thu thập dữ liệu thống kê cầu thủ từ trang FBref
 Lý do lựa chọn
