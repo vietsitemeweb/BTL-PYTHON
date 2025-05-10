@@ -1,0 +1,80 @@
+For Gls:
+Top 3:
+Mohamed Salah, Liverpool, 28
+Alexander Isak, Newcastle Utd, 23
+Erling Haaland, Manchester City, 21
+Bottom 3:
+Joshua Acheampong, Chelsea, 0
+Tyler Adams, Bournemouth, 0
+Emmanuel Agbadou, Wolves, 0
+
+For Ast:
+Top 3:
+Mohamed Salah, Liverpool, 18
+Jacob Murphy, Newcastle Utd, 11
+Mikkel Damsgaard, Brentford, 10
+Bottom 3:
+Joshua Acheampong, Chelsea, 0
+Emmanuel Agbadou, Wolves, 0
+Kristoffer Ajer, Brentford, 0
+
+For G+A:
+Top 3:
+Mohamed Salah, Liverpool, 46
+Alexander Isak, Newcastle Utd, 29
+Erling Haaland, Manchester City, 24
+Bottom 3:
+Joshua Acheampong, Chelsea, 0
+Emmanuel Agbadou, Wolves, 0
+Kristoffer Ajer, Brentford, 0
+
+For xG:
+Top 3:
+Mohamed Salah, Liverpool, 24.0
+Erling Haaland, Manchester City, 20.8
+Alexander Isak, Newcastle Utd, 19.9
+Bottom 3:
+Alisson, Liverpool, 0.0
+Harry Amass, Manchester Utd, 0.0
+Julian Araujo, Bournemouth, 0.0
+
+For npxG:
+Top 3:
+Erling Haaland, Manchester City, 18.4
+Mohamed Salah, Liverpool, 17.0
+Alexander Isak, Newcastle Utd, 16.8
+Bottom 3:
+Alisson, Liverpool, 0.0
+Harry Amass, Manchester Utd, 0.0
+Julian Araujo, Bournemouth, 0.0
+
+For xAG:
+Top 3:
+Mohamed Salah, Liverpool, 13.2
+Cole Palmer, Chelsea, 10.0
+Son Heung-min, Tottenham, 8.2
+Bottom 3:
+Joshua Acheampong, Chelsea, 0.0
+Nathan Aké, Manchester City, 0.0
+Harry Amass, Manchester Utd, 0.0
+
+For PrgC:
+Top 3:
+Jeremy Doku, Manchester City, 189
+Mohamed Salah, Liverpool, 143
+Noni Madueke, Chelsea, 142
+Bottom 3:
+Joshua Acheampong, Chelsea, 0
+Alisson, Liverpool, 0
+Alphonse Areola, West Ham, 0
+
+For PrgP:
+Top 3:
+Bruno Fernandes, Manchester Utd, 281
+Joško Gvardiol, Manchester City, 251
+Bruno Guimarães, Newcastle Utd, 247
+Bottom 3:
+Alisson, Liverpool, 0
+Alphonse Areola, West Ham, 0
+Altay Bayındır, Manchester Utd, 0
+
